@@ -1,0 +1,2730 @@
+{
+    "IPA": {
+        "isopropyl alcohol": 340,
+        "isopropanol": 385,
+        "Isopropanol": 56,
+        "Isopropyl alcohol": 61,
+        "isopropanol alcohol": 10,
+        "iso-propyl alcohol": 15,
+        "iso-propanol": 14,
+        "isopropylalcohol": 7
+    },
+    "TEOS": {
+        "Tetraethoxysilane": 163,
+        "tetraethyl orthosilicate": 452,
+        "tetraethylorthosilicate": 184,
+        "Tetraethyl orthosilicate": 211,
+        "tetraethoxysilane": 357,
+        "Tetraethylorthosilicate": 87,
+        "tetraorthosilicate": 9,
+        "Tetraethyl-orthosilicate": 6,
+        "tetraethyl-orthosilicate": 6,
+        "tetra ethyl orthosilicate": 6
+    },
+    "HMDS": {
+        "Hexamethyldisilazane": 25,
+        "hexamethyldisilazane": 118,
+        "hexamethyldisilane": 7,
+        "1,1,1,3,3,3-hexamethyldisilazane": 10,
+        "1,1,1,3,3,3-Hexamethyldisilazane": 6,
+        "1,1,1,3,3,3-hexamethyl disilazane": 6
+    },
+    "AIBN": {
+        "Azobisisobutyronitrile": 38,
+        "azobisisobutyronitrile": 71,
+        "2,2\u2032-azobisisobutyronitrile": 30,
+        "2\u2032-azobisisobutyronitrile": 10,
+        "Azodiisobutyronitrile": 10,
+        "azobis(isobutyronitrile)": 7,
+        "2,2\u2032-Azobisisobutyronitrile": 13,
+        "2,2-azobisisobutyronitrile": 18,
+        "azodiisobutyronitrile": 16,
+        "2,2\u2032-Azobis(isobutyronitrile)": 8,
+        "2,2\u2032-azobis(isobutyronitrile)": 17
+    },
+    "APTES": {
+        "3-aminopropyl triethoxysilane": 15,
+        "3-Aminopropyltriethoxysilane": 38,
+        "aminopropyltriethoxysilane": 29,
+        "(3-aminopropyl) triethoxysilane": 26,
+        "3-aminopropyltriethoxysilane": 100,
+        "(3-aminopropyl)triethoxysilane": 41,
+        "\u03b3-aminopropyltriethoxysilane": 7,
+        "3-aminopropyl-triethoxysilane": 14,
+        "(3-Aminopropyl)triethoxysilane": 11,
+        "(3-Aminopropyl) triethoxysilane": 16,
+        "Aminopropyltriethoxysilane": 6,
+        "3-(aminopropyl)triethoxysilane": 7
+    },
+    "TMS": {
+        "tetramethylsilane": 144,
+        "trimethylsilyl": 9,
+        "Tetramethylsilane": 17,
+        "trimethylsilane": 10
+    },
+    "THF": {
+        "Tetrahydrofuran": 225,
+        "tetrahydrofuran": 706,
+        "tetrahydrofurane": 16
+    },
+    "HEMA": {
+        "hydroxyethyl methacrylate": 34,
+        "2-hydroxyethyl methacrylate": 103,
+        "2-Hydroxyethyl methacrylate": 27,
+        "2-hydroxyethylmethacrylate": 12,
+        "Hydroxyethyl methacrylate": 6,
+        "hydroxyethylmethacrylate": 9
+    },
+    "PGMA": {
+        "poly(glycidyl methacrylate)": 11
+    },
+    "CdTe": {
+        "cadmium telluride": 21
+    },
+    "CuO": {
+        "copper oxide": 62,
+        "cupric oxide": 35,
+        "Cupric oxide": 13
+    },
+    "SiC": {
+        "silicon carbide": 71,
+        "Silicon carbide": 26
+    },
+    "ZnO": {
+        "zinc oxide": 510,
+        "Zinc oxide": 358,
+        "Zinc Oxide": 37
+    },
+    "FEP": {
+        "fluorinated ethylene propylene": 43,
+        "Fluorinated ethylene propylene": 6
+    },
+    "PAA": {
+        "Poly(acrylic acid)": 29,
+        "poly(amic acid)": 12,
+        "poly(acrylic acid)": 124,
+        "polyacrylic acid": 99,
+        "Polyacrylic acid": 23,
+        "polyamic acid": 15,
+        "poly acrylic acid": 6
+    },
+    "EtOH": {
+        "ethanol": 361,
+        "ethyl alcohol": 28,
+        "absolute ethyl alcohol": 6
+    },
+    "EVA": {
+        "ethylene vinyl acetate": 13,
+        "ethylene-vinyl acetate": 11
+    },
+    "PVF": {
+        "polyvinyl fluoride": 9
+    },
+    "ATO": {
+        "antimony": 16,
+        "Antimony": 9
+    },
+    "PTFE": {
+        "poly(tetrafluoroethylene)": 67,
+        "polytetrafluoroethylene": 716,
+        "Polytetrafluoroethylene": 146,
+        "polytetrafluorethylene": 16,
+        "poly-tetrafluoroethylene": 7,
+        "polytetrafluroethylene": 8,
+        "Poly(tetrafluoroethylene)": 13,
+        "polytetrafluoroethene": 8,
+        "poly tetrafluoroethylene": 6
+    },
+    "ITO": {
+        "indium tin oxide": 409,
+        "indium-tin-oxide": 31,
+        "indium-tin oxide": 56,
+        "Indium tin oxide": 71,
+        "Indium Tin Oxide": 20,
+        "Indium-tin oxide": 8,
+        "indium\u2013tin oxide": 30,
+        "indium tin oxides": 8
+    },
+    "MTES": {
+        "methyltriethoxysilane": 76,
+        "Methyltriethoxysilane": 20
+    },
+    "PDMS": {
+        "polydimethyl siloxane": 16,
+        "Polydimethylsiloxane": 310,
+        "polydimethylsiloxane": 994,
+        "Poly(dimethylsiloxane)": 45,
+        "poly(dimethylsiloxane)": 181,
+        "poly(dimethyl siloxane)": 25,
+        "polydimethylsiloxanes": 10,
+        "polydimethysiloxane": 11,
+        "Poly(dimethyl siloxane)": 10,
+        "poly-dimethylsiloxane": 10
+    },
+    "CaCO3": {
+        "calcium carbonate": 61,
+        "Calcium carbonate": 11
+    },
+    "FAS": {
+        "Fluoroalkylsilane": 13,
+        "fluoroalkylsilane": 105,
+        "fluorinated alkyl silane": 24,
+        "fluoroalkylsilanes": 14,
+        "fluoroalkyl silane": 25,
+        "Fluoroalkylsilanes": 7,
+        "ferrous ammonium sulfate": 6
+    },
+    "HCl": {
+        "hydrochloric acid": 1004,
+        "hydrochloride acid": 9,
+        "Hydrochloric acid": 237,
+        "hydrochloric": 9,
+        "hydrogen chloride": 38,
+        "N hydrochloric acid": 7,
+        "Hydrogen chloride": 7
+    },
+    "PCTFE": {
+        "polychlorotrifluoroethylene": 6
+    },
+    "DBP": {
+        "Dibutyl phthalate": 7,
+        "dibutyl phthalate": 17
+    },
+    "PMMA": {
+        "polymethylmethacrylate": 106,
+        "poly(methyl methacrylate)": 236,
+        "polymethyl methacrylate": 142,
+        "Poly(methyl methacrylate)": 34,
+        "Poly (methyl methacrylate)": 11,
+        "poly methyl methacrylate": 8,
+        "polymethyl-methacrylate": 9,
+        "poly(methylmethacrylate)": 29,
+        "Polymethylmethacrylate": 14,
+        "Polymethyl methacrylate": 22
+    },
+    "VTES": {
+        "Vinyltriethoxysilane": 9,
+        "vinyltriethoxysilane": 38
+    },
+    "TMOS": {
+        "Tetramethoxysilane": 18,
+        "Tetramethyl orthosilicate": 6,
+        "tetramethyl orthosilicate": 17,
+        "tetramethoxysilane": 35,
+        "tetramethylorthosilicate": 13
+    },
+    "SDS": {
+        "sodium dodecyl sulphate": 113,
+        "sodium dodecyl sulfate": 606,
+        "Sodium dodecyl sulfate": 121,
+        "sodium dodecyl sulfonate": 36,
+        "sodium dodecylsulfate": 61,
+        "Sodium dodecyl sulphate": 17,
+        "Sodium dodecylsulfate": 11,
+        "sodium dodecylsulphate": 11,
+        "Sodium Dodecyl Sulfate": 10
+    },
+    "PIs": {
+        "polyimides": 6
+    },
+    "ODA": {
+        "4,4\u2032-oxydianiline": 11,
+        "octadecylamine": 85,
+        "Octadecylamine": 20
+    },
+    "PVDF": {
+        "polyvinylidene fluoride": 479,
+        "polyvinylidene difluoride": 45,
+        "Poly(vinylidene fluoride)": 58,
+        "Poly (vinylidene fluoride)": 23,
+        "Polyvinylidene Fluoride": 7,
+        "Polyvinylidene fluoride": 142,
+        "poly (vinylidene fluoride)": 30,
+        "poly(vinylidene fluoride)": 142,
+        "polyvinyldifluoride": 8,
+        "polyvinylidenefluoride": 21,
+        "poly(vinylidene difluoride)": 6
+    },
+    "PVP": {
+        "polyvinylpyrrolidone": 391,
+        "poly(N-vinylpyrrolidone)": 14,
+        "poly(vinyl pyrrolidone)": 47,
+        "Polyvinylpyrrolidone": 127,
+        "polyvinyl pyrrolidone": 145,
+        "poly(vinylpyrrolidone)": 38,
+        "Polyvinyl pyrrolidone": 42,
+        "Poly(vinylpyrrolidone)": 13,
+        "poly (vinyl pyrrolidone)": 7,
+        "Poly(vinyl pyrrolidone)": 10,
+        "poly(N-vinyl pyrrolidone)": 6,
+        "polyvinylpyrolidone": 6
+    },
+    "BJH": {
+        "Barrett-Joyner-Halenda": 241,
+        "Barret-Joyner-Halenda": 24
+    },
+    "MAH": {
+        "maleic anhydride": 12,
+        "Maleic anhydride": 6
+    },
+    "DMSO": {
+        "dimethyl sulfoxide": 458,
+        "Dimethyl sulfoxide": 91,
+        "dimethylsulfoxide": 107,
+        "Dimethylsulfoxide": 25,
+        "dimethylsulphoxide": 9,
+        "dimethyl sulphoxide": 30
+    },
+    "DTT": {
+        "dl-dithiothreitol": 6,
+        "Dithiothreitol": 9,
+        "dithiothreitol": 35
+    },
+    "KBr": {
+        "potassium bromide": 123
+    },
+    "PVA": {
+        "poly(vinyl alcohol)": 186,
+        "polyvinyl alcohol": 440,
+        "poly-vinyl alcohol": 6,
+        "Poly vinyl alcohol": 9,
+        "Polyvinyl alcohol": 163,
+        "poly vinyl alcohol": 14,
+        "poly (vinyl alcohol)": 24,
+        "Poly(vinyl alcohol)": 81,
+        "Polyvinyl Alcohol": 9,
+        "Poly (vinyl alcohol)": 13,
+        "Polyvinylalcohol": 6,
+        "polyvinylalcohol": 21
+    },
+    "APS": {
+        "ammonium persulfate": 154,
+        "Ammonium peroxydisulfate": 7,
+        "Ammonium persulfate": 51,
+        "ammonium peroxydisulfate": 20,
+        "ammonium persulphate": 18,
+        "ammonium peroxodisulfate": 9
+    },
+    "PEI": {
+        "polyetherimide": 37,
+        "Polyetherimide": 14,
+        "poly(ethylenimine)": 16,
+        "poly(ethyleneimine)": 28,
+        "polyethyleneimine": 228,
+        "polyethylenimine": 118,
+        "Polyethyleneimine": 58,
+        "Polyethylenimine": 34,
+        "poly(ethylene imine)": 16,
+        "Poly(ethyleneimine)": 8,
+        "polyethylene imine": 8,
+        "Poly(ethylene imine)": 6
+    },
+    "TEA": {
+        "triethylamine": 230,
+        "Triethylamine": 77,
+        "triethyl amine": 10
+    },
+    "NMP": {
+        "N-methyl-2-pyrrolidone": 202,
+        "N-Methyl-2-pyrrolidone": 35,
+        "N-Methyl pyrrolidone": 8,
+        "N-methylpyrrolidone": 57,
+        "N-methyl pyrrolidone": 50,
+        "N-methylpyrrolidinone": 17,
+        "N-Methyl-2-Pyrrolidone": 6,
+        "n-methyl-2-pyrrolidone": 11,
+        "N-methyl-2-pyrrolidinone": 25,
+        "N-Methyl-2-pyrrolidinone": 6
+    },
+    "PEG": {
+        "polyethylene glycol": 672,
+        "poly (ethylene glycol)": 41,
+        "Polyethylene glycol": 161,
+        "poly(ethylene glycol)": 261,
+        "Polyethylene Glycol": 11,
+        "Poly(ethylene glycol)": 58,
+        "poly ethylene glycol": 10,
+        "polyethylene glycol 400": 29,
+        "poly(ethyleneglycol)": 8,
+        "polyethylene glycol 200": 6,
+        "Polyethylene glycols": 8,
+        "Poly (ethylene glycol)": 9,
+        "polyethyleneglycol": 30
+    },
+    "PLA": {
+        "poly(lactic acid)": 70,
+        "Poly(lactic acid)": 16,
+        "Polylactic acid": 30,
+        "polylactic acid": 121,
+        "poly(lactide)": 8,
+        "polylactide": 30,
+        "Polylactide": 10,
+        "poly-lactic acid": 6
+    },
+    "PANI": {
+        "polyaniline": 227,
+        "Polyaniline": 80
+    },
+    "POM": {
+        "polyoxometalate": 11,
+        "polyoxymethylene": 11
+    },
+    "DMAc": {
+        "N,N-dimethylacetamide": 82,
+        "N, N-dimethylacetamide": 9,
+        "N-Dimethylacetamide": 8,
+        "N-dimethylacetamide": 21,
+        "dimethylacetamide": 64,
+        "N,N-dimethyl acetamide": 13,
+        "Dimethylacetamide": 19,
+        "N, N-dimethyl acetamide": 6,
+        "N,N-Dimethylacetamide": 20,
+        "N,N\u2032-dimethylacetamide": 9,
+        "dimethyl acetamide": 8
+    },
+    "NMMO": {
+        "N-methylmorpholine-N-oxide": 10
+    },
+    "PPy": {
+        "Polypyrrole": 32,
+        "polypyrrole": 166
+    },
+    "PVAc": {
+        "polyvinyl acetate": 24,
+        "poly(vinyl acetate)": 14
+    },
+    "PAN": {
+        "polyacrylonitrile": 242,
+        "Polyacrylonitrile": 93,
+        "poly(acrylonitrile)": 6
+    },
+    "TTF": {
+        "tetrathiafulvalene": 6
+    },
+    "APTMS": {
+        "aminopropyltrimethoxysilane": 7,
+        "3-aminopropyltrimethoxysilane": 20,
+        "(3-aminopropyl)trimethoxysilane": 15,
+        "(3-Aminopropyl) trimethoxysilane": 6
+    },
+    "PET": {
+        "polyethylene terephthalate": 333,
+        "polyethyleneterephthalate": 7,
+        "poly(ethylene terephthalate)": 96,
+        "Polyethylene terephthalate": 65,
+        "Poly(ethylene terephthalate)": 17,
+        "Polyethylene Terephthalate": 9,
+        "polyethylene terephtalate": 9
+    },
+    "PSS": {
+        "poly(styrene sulfonate)": 14,
+        "poly(sodium 4-styrenesulfonate)": 31,
+        "poly(styrenesulfonate)": 19,
+        "polystyrene sulfonate": 19,
+        "poly(sodium-p-styrenesulfonate)": 7
+    },
+    "MMA": {
+        "methyl methacrylate": 204,
+        "methylmethacrylate": 29,
+        "Methyl methacrylate": 114
+    },
+    "FTO": {
+        "fluorinated tin oxide": 11,
+        "fluorine tin oxide": 15
+    },
+    "IPDI": {
+        "Isophorone diisocyanate": 60,
+        "isophorone diisocyanate": 57
+    },
+    "DMPA": {
+        "dimethylol propionic acid": 18,
+        "2,2-Dimethoxy-2-phenylacetophenone": 6,
+        "Dimethylol propionic acid": 11,
+        "2,2-dimethoxy-2-phenylacetophenone": 17,
+        "dimethylolpropionic acid": 13
+    },
+    "MEK": {
+        "Methyl ethyl ketone": 17,
+        "methyl ethyl ketone": 54,
+        "methylethylketone": 8
+    },
+    "PEEK": {
+        "polyetheretherketone": 17,
+        "Polyetheretherketone": 7,
+        "polyether ether ketone": 32,
+        "poly(ether ether ketone)": 11,
+        "Poly(ether ether ketone)": 7,
+        "polyether-ether-ketone": 6
+    },
+    "PVC": {
+        "polyvinyl chloride": 150,
+        "polyvinylchloride": 37,
+        "Poly(vinyl chloride)": 16,
+        "Polyvinyl chloride": 26,
+        "poly(vinyl chloride)": 67,
+        "poly vinyl chloride": 9
+    },
+    "MMT": {
+        "montmorillonite": 70,
+        "Montmorillonite": 27
+    },
+    "CMC": {
+        "Carboxymethyl": 19,
+        "carboxymethyl": 87
+    },
+    "PUs": {
+        "Polyurethanes": 13,
+        "polyurethanes": 20
+    },
+    "PTh": {
+        "polythiophene": 22
+    },
+    "DMF": {
+        "dimethylformamide": 290,
+        "N,N-dimethylformamide": 412,
+        "Dimethylformamide": 59,
+        "N,N-Dimethylformamide": 89,
+        "dimethyl formamide": 75,
+        "N, N-dimethylformamide": 184,
+        "N, N-dimethyl formamide": 22,
+        "N,N\u2032-dimethylformamide": 32,
+        "N-Dimethylformamide": 57,
+        "N,N dimethylformamide": 6,
+        "N-dimethylformamide": 17,
+        "Dimethyl formamide": 14,
+        "N,N-dimethyl formamide": 40,
+        "N,N-dimethyl-formamide": 8
+    },
+    "MPS": {
+        "3-methacryloxypropyltrimethoxysilane": 9
+    },
+    "BMA": {
+        "n-butyl methacrylate": 13,
+        "butyl methacrylate": 24
+    },
+    "H2O2": {
+        "hydrogen peroxide": 749
+    },
+    "APP": {
+        "Ammonium polyphosphate": 7,
+        "ammonium polyphosphate": 25
+    },
+    "CH3": {
+        "methyl": 70
+    },
+    "ChCl": {
+        "choline chloride": 9
+    },
+    "GLY": {
+        "glycerol": 20
+    },
+    "PLLA": {
+        "poly(L-lactide)": 7,
+        "poly(l-lactide)": 14,
+        "poly(L-lactic acid)": 6,
+        "poly(l-lactic acid)": 13,
+        "Poly(l-lactic acid)": 6
+    },
+    "NaBH4": {
+        "sodium borohydride": 132
+    },
+    "PPG": {
+        "polypropylene glycol": 21,
+        "poly(propylene glycol)": 14,
+        "Polypropylene glycol": 7
+    },
+    "PEO": {
+        "poly (ethylene oxide)": 12,
+        "Poly(ethylene oxide)": 21,
+        "Polyethylene oxide": 24,
+        "poly(ethylene oxide)": 122,
+        "polyethylene oxide": 108,
+        "polyethyleneoxide": 7
+    },
+    "HDI": {
+        "hexamethylene diisocyanate": 33,
+        "Hexamethylene diisocyanate": 12
+    },
+    "DBTDL": {
+        "dibutyltin dilaurate": 72,
+        "Dibutyltin dilaurate": 37,
+        "dibutyltindilaurate": 8
+    },
+    "EDA": {
+        "Ethylenediamine": 23,
+        "ethylenediamine": 62,
+        "ethylene diamine": 8
+    },
+    "DEG": {
+        "diethylene glycol": 52,
+        "Diethylene glycol": 6
+    },
+    "POSS": {
+        "polyhedral oligomeric silsesquioxanes": 21,
+        "Polyhedral oligomeric silsesquioxane": 19,
+        "polyhedral oligomeric silsesquioxane": 33,
+        "Polyhedral oligomeric silsesquioxanes": 10
+    },
+    "BPO": {
+        "Benzoyl peroxide": 36,
+        "benzoyl peroxide": 50
+    },
+    "PZT": {
+        "lead zirconate titanate": 11
+    },
+    "HOCl": {
+        "hypochlorous acid": 9
+    },
+    "NaClO": {
+        "sodium hypochlorite": 47
+    },
+    "TETA": {
+        "triethylenetetramine": 16
+    },
+    "PBS": {
+        "poly(butylene succinate)": 10
+    },
+    "DDAB": {
+        "didodecyldimethylammonium bromide": 17
+    },
+    "Na+": {
+        "sodium": 25
+    },
+    "ANI": {
+        "Aniline": 9,
+        "aniline": 12
+    },
+    "NaCl": {
+        "sodium chloride": 565
+    },
+    "DGEBA": {
+        "diglycidyl ether of bisphenol A": 19,
+        "Diglycidyl ether of bisphenol A": 6
+    },
+    "QAS": {
+        "quaternary ammonium": 18
+    },
+    "TiC": {
+        "titanium carbide": 10
+    },
+    "SiOx": {
+        "silicon oxide": 7
+    },
+    "LiF": {
+        "lithium fluoride": 15,
+        "Lithium fluoride": 22
+    },
+    "PEN": {
+        "polyethylene naphthalate": 22
+    },
+    "COC": {
+        "cyclic olefin": 10
+    },
+    "PEDOT": {
+        "poly(3,4-ethylenedioxythiophene)": 44,
+        "Poly(3,4-ethylenedioxythiophene)": 6
+    },
+    "ECH": {
+        "epichlorohydrin": 21
+    },
+    "BET": {
+        "Brunauer-Emmett-Teller": 478
+    },
+    "P3HT": {
+        "poly(3-hexylthiophene)": 35,
+        "Poly(3-hexylthiophene)": 7,
+        "poly(3-hexylthiophene-2,5-diyl)": 7
+    },
+    "POTS": {
+        "1H, 1H, 2H, 2H-perfluorooctyltriethoxysilane": 10,
+        "1H,1H,2H,2H-perfluorooctyltriethoxysilane": 24,
+        "perfluorooctyltriethoxysilane": 12
+    },
+    "Pal": {
+        "palygorskite": 8,
+        "Palygorskite": 9
+    },
+    "NaBr": {
+        "sodium bromide": 37
+    },
+    "PSf": {
+        "Polysulfone": 59,
+        "polysulfone": 157
+    },
+    "DOX": {
+        "doxorubicin": 52,
+        "Doxorubicin": 13,
+        "doxycycline": 6
+    },
+    "MDI": {
+        "methylene diphenyl diisocyanate": 8
+    },
+    "TTIP": {
+        "Titanium isopropoxide": 39,
+        "titanium isopropoxide": 87,
+        "titanium (IV) isopropoxide": 60,
+        "Titanium (IV) isopropoxide": 36,
+        "Titanium tetra-isopropoxide": 15,
+        "titanium tetraisopropoxide": 164,
+        "Titanium tetraisopropoxide": 71,
+        "Titanium(IV) isopropoxide": 11,
+        "titanium(IV) isopropoxide": 21,
+        "titanium tetra-isopropoxide": 54,
+        "titanium-tetraisopropoxide": 7,
+        "titanium tetra isopropoxide": 11,
+        "Titanium tetra isopropoxide": 8
+    },
+    "\u03b2-CD": {
+        "\u03b2-Cyclodextrin": 13,
+        "\u03b2-cyclodextrin": 56
+    },
+    "BPA": {
+        "bisphenol A": 117,
+        "bisphenol-A": 12,
+        "Bisphenol A": 51,
+        "Bisphenol-A": 10
+    },
+    "BPF": {
+        "bisphenol F": 6
+    },
+    "PES": {
+        "polyethersulfone": 274,
+        "Polyethersulfone": 95,
+        "poly(ether sulfone)": 11,
+        "polyether sulfone": 29,
+        "Polyether sulfone": 11,
+        "poly(ethersulfone)": 8,
+        "polyethersulphone": 9
+    },
+    "MeOH": {
+        "methanol": 180,
+        "Methanol": 40
+    },
+    "PDA": {
+        "polydopamine": 442,
+        "poly-dopamine": 7,
+        "Polydopamine": 64,
+        "poly(dopamine)": 6
+    },
+    "HEA": {
+        "hydroxyethyl acrylate": 8,
+        "2-hydroxyethyl acrylate": 25
+    },
+    "TEOA": {
+        "Triethanolamine": 23,
+        "triethanolamine": 138
+    },
+    "PAM": {
+        "polyacrylamide": 58,
+        "Polyacrylamide": 10
+    },
+    "SPSf": {
+        "sulfonated polysulfone": 7
+    },
+    "TMC": {
+        "trimesoylchloride": 9,
+        "trimesoyl chloride": 320,
+        "Trimesoyl chloride": 73,
+        "1,3,5-trimesoyl chloride": 12
+    },
+    "DCM": {
+        "dichloromethane": 205,
+        "Dichloromethane": 44
+    },
+    "EDC": {
+        "1-ethyl-3-(3-dimethylaminopropyl) carbodiimide": 27,
+        "1-ethyl-3-(3-dimethylaminopropyl)carbodiimide": 12,
+        "1-Ethyl-3-(3-dimethylaminopropyl) carbodiimide": 6
+    },
+    "NHS": {
+        "N-hydroxysuccinimide": 168,
+        "N-Hydroxysuccinimide": 19,
+        "N-hydroxysulfosuccinimide": 6,
+        "N-hydroxy succinimide": 9
+    },
+    "GLA": {
+        "glutaraldehyde": 8
+    },
+    "EDTA": {
+        "Ethylenediaminetetraacetic acid": 28,
+        "ethylenediaminetetraacetic acid": 134,
+        "ethylenediamine tetraacetic acid": 19,
+        "ethylene diamine tetraacetic acid": 27,
+        "ethylene diamine tetra acetic acid": 9,
+        "ethylene diamine tetra-acetic acid": 6,
+        "ethylenediaminetetraacetate": 14
+    },
+    "MPTMS": {
+        "3-mercaptopropyltrimethoxysilane": 14,
+        "(3-mercaptopropyl)trimethoxysilane": 7
+    },
+    "PCL": {
+        "polycaprolactone": 113,
+        "Polycaprolactone": 36,
+        "poly(\u03b5-caprolactone)": 41,
+        "Poly(\u03b5-caprolactone)": 21,
+        "poly(caprolactone)": 17,
+        "poly-\u03b5-caprolactone": 8,
+        "poly(\u025b-caprolactone)": 9
+    },
+    "AGE": {
+        "Allyl glycidyl ether": 7,
+        "allyl glycidyl ether": 10
+    },
+    "DEA": {
+        "diethylamine": 6,
+        "diethanolamine": 78,
+        "Diethanolamine": 15
+    },
+    "NH3": {
+        "ammonia": 135
+    },
+    "MPD": {
+        "m-phenylenediamine": 169,
+        "M-phenylenediamine": 41,
+        "m-Phenylenediamine": 30,
+        "m-phenylene diamine": 21
+    },
+    "ODT": {
+        "octadecanethiol": 24,
+        "1-octadecanethiol": 8,
+        "1-Octadecanethiol": 8
+    },
+    "OCP": {
+        "octacalcium phosphate": 10
+    },
+    "TMOs": {
+        "transition metal oxides": 15,
+        "Transition metal oxides": 7
+    },
+    "TCE": {
+        "trichloroethylene": 86,
+        "Trichloroethylene": 15
+    },
+    "PETA": {
+        "pentaerythritol triacrylate": 11,
+        "Pentaerythritol triacrylate": 6
+    },
+    "DTGS": {
+        "deuterated triglycine sulfate": 21
+    },
+    "DHICA": {
+        "5,6-dihydroxyindole-2-carboxylic acid": 8
+    },
+    "PLGA": {
+        "poly(lactic-co-glycolic acid)": 55,
+        "Poly(lactic-co-glycolic acid)": 14
+    },
+    "MDA": {
+        "Malondialdehyde": 6,
+        "malondialdehyde": 25
+    },
+    "TCA": {
+        "trichloroacetic acid": 41,
+        "Trichloroacetic acid": 6
+    },
+    "TBA": {
+        "thiobarbituric acid": 15,
+        "tetrabutylammonium": 9,
+        "tert-butyl alcohol": 85,
+        "tert-butanol": 25,
+        "tertiary butanol": 6,
+        "Tert-butyl alcohol": 14,
+        "tertiary butyl alcohol": 15,
+        "tertiary-butyl alcohol": 7
+    },
+    "Tris": {
+        "tris(hydroxymethyl) aminomethane": 17,
+        "tris": 21,
+        "Tris(hydroxymethyl)aminomethane": 27,
+        "Tris(hydroxymethyl) aminomethane": 10,
+        "tris(hydroxymethyl)aminomethane": 27
+    },
+    "PIP": {
+        "Piperazine": 35,
+        "piperazine": 96
+    },
+    "MgSO4": {
+        "magnesium sulfate": 60
+    },
+    "LYS": {
+        "lysozyme": 10
+    },
+    "TPP": {
+        "sodium tripolyphosphate": 12,
+        "tripolyphosphate": 9,
+        "tetrapolyphosphate": 6
+    },
+    "CaP": {
+        "calcium phosphate": 14,
+        "Calcium phosphate": 6
+    },
+    "TiN": {
+        "titanium nitride": 38,
+        "Titanium nitride": 12
+    },
+    "BDO": {
+        "1,4-butanediol": 22
+    },
+    "NiO": {
+        "nickel oxide": 30,
+        "Nickel oxide": 24
+    },
+    "PCBM": {
+        "phenyl-C61-butyric acid methyl ester": 9,
+        "[6,6]-phenyl-C61-butyric acid methyl ester": 11
+    },
+    "DCB": {
+        "1,2-dichlorobenzene": 12
+    },
+    "PFDT": {
+        "1H, 1H, 2H, 2H-perfluorodecanethiol": 13,
+        "1H,1H,2H,2H-perfluorodecanethiol": 12
+    },
+    "DTAB": {
+        "dodecyl trimethyl ammonium bromide": 13,
+        "dodecyltrimethylammonium bromide": 52,
+        "Dodecyltrimethylammonium bromide": 7,
+        "dodecyl trimethylammonium bromide": 6
+    },
+    "CTAB": {
+        "cetyl trimethyl ammonium bromide": 45,
+        "Cetyltrimethylammonium bromide": 45,
+        "hexadecyltrimethylammonium bromide": 54,
+        "cetyltrimethylammonium bromide": 264,
+        "cetyltrimethyl ammonium bromide": 63,
+        "Cetyl trimethyl ammonium bromide": 13,
+        "Cetyltrimethyl ammonium bromide": 14,
+        "Cetyl Trimethyl Ammonium Bromide": 6,
+        "cetyl trimethylammonium bromide": 12
+    },
+    "AAc": {
+        "acrylic acid": 31,
+        "Acrylic acid": 7
+    },
+    "ACN": {
+        "acetonitrile": 127,
+        "Acetonitrile": 28
+    },
+    "PBA": {
+        "phenylboronic acid": 8,
+        "poly (butyl acrylate)": 7
+    },
+    "DETA": {
+        "diethylenetriamine": 44,
+        "Diethylenetriamine": 9
+    },
+    "PBDEs": {
+        "polybrominated diphenyl ethers": 15,
+        "Polybrominated diphenyl ethers": 6
+    },
+    "MTMS": {
+        "Methyltrimethoxysilane": 34,
+        "methyltrimethoxysilane": 95,
+        "methyl trimethoxy silane": 6
+    },
+    "SDBS": {
+        "sodium dodecylbenzenesulfonate": 25,
+        "sodium dodecylbenzene sulfonate": 38,
+        "Sodium dodecyl benzene sulfonate": 19,
+        "sodium dodecyl benzene sulfonate": 58,
+        "Sodium dodecylbenzene sulfonate": 7,
+        "Sodium dodecylbenzenesulfonate": 7,
+        "sodium dodecyl benzenesulfonate": 8
+    },
+    "KCl": {
+        "potassium chloride": 147
+    },
+    "OTS": {
+        "Octadecyltrichlorosilane": 41,
+        "octadecyltrichlorosilane": 152,
+        "n-octadecyltrichlorosilane": 9,
+        "trichloro(octadecyl)silane": 6
+    },
+    "ETPTA": {
+        "ethoxylated trimethylolpropane triacrylate": 6
+    },
+    "TOL": {
+        "toluene": 11
+    },
+    "ODPA": {
+        "octadecylphosphonic acid": 16
+    },
+    "TPAOH": {
+        "tetrapropylammonium hydroxide": 23
+    },
+    "RhB": {
+        "rhodamine B": 387,
+        "Rhodamine B": 547,
+        "Rhodamine-B": 39,
+        "rhodamine b": 7,
+        "rhodamine-B": 13,
+        "rhodamin B": 6
+    },
+    "K2CO3": {
+        "potassium carbonate": 37
+    },
+    "DVB": {
+        "divinylbenzene": 47,
+        "Divinylbenzene": 21
+    },
+    "NVP": {
+        "N-vinylpyrrolidone": 10,
+        "N-vinyl pyrrolidone": 8,
+        "N-vinyl-2-pyrrolidone": 9,
+        "N-vinyl-2-pyrrolidinone": 6
+    },
+    "EGDMA": {
+        "ethylene glycol dimethacrylate": 67,
+        "Ethylene glycol dimethacrylate": 13
+    },
+    "PFDA": {
+        "1H,1H,2H,2H-perfluorodecyl acrylate": 7
+    },
+    "TBPO": {
+        "tert-butyl peroxide": 7
+    },
+    "GAA": {
+        "glacial acetic acid": 6
+    },
+    "NH4F": {
+        "ammonium fluoride": 109
+    },
+    "NO2": {
+        "nitrogen dioxide": 47
+    },
+    "Chol": {
+        "cholesterol": 21,
+        "Cholesterol": 8
+    },
+    "DCC": {
+        "dicyclohexylcarbodiimide": 23,
+        "N,N\u2032-dicyclohexylcarbodiimide": 32,
+        "Dicyclohexylcarbodiimide": 11,
+        "N,N-dicyclohexylcarbodiimide": 7,
+        "N,N\u2019-dicyclohexylcarbodiimide": 7
+    },
+    "DMAP": {
+        "4-dimethylaminopyridine": 54,
+        "4-(dimethylamino) pyridine": 10,
+        "4-(dimethylamino)pyridine": 18,
+        "4-Dimethylaminopyridine": 12
+    },
+    "DIPEA": {
+        "N,N-diisopropylethylamine": 7
+    },
+    "HDDA": {
+        "1,6-hexanediol diacrylate": 6
+    },
+    "TDI": {
+        "toluene diisocyanate": 17,
+        "Toluene diisocyanate": 6,
+        "2,4-toluene diisocyanate": 9
+    },
+    "PAHs": {
+        "polycyclic aromatic hydrocarbons": 112,
+        "polyaromatic hydrocarbons": 7,
+        "Polycyclic aromatic hydrocarbons": 27
+    },
+    "OTC": {
+        "oxytetracycline": 21,
+        "Oxytetracycline": 11
+    },
+    "DMPO": {
+        "5,5-Dimethyl-1-pyrroline N-oxide": 13,
+        "5,5-dimethyl-1-pyrroline N-oxide": 53,
+        "5,5-dimethyl-1-pyrroline-N-oxide": 40,
+        "5,5-Dimethyl-1-pyrroline-N-oxide": 6,
+        "5,5-dimethyl-l-pyrroline-N-oxide": 6,
+        "5-dimethyl-1-pyrroline N-oxide": 8,
+        "5, 5-dimethyl-1-pyrroline N-oxide": 6
+    },
+    "NBT": {
+        "nitroblue tetrazolium": 16,
+        "Nitroblue tetrazolium": 7
+    },
+    "R6G": {
+        "Rhodamine 6G": 38,
+        "rhodamine 6G": 32
+    },
+    "SBMA": {
+        "Sulfobetaine methacrylate": 8,
+        "sulfobetaine methacrylate": 27
+    },
+    "NaAc": {
+        "sodium acetate": 32
+    },
+    "CuSO4": {
+        "copper sulfate": 24,
+        "cupric sulfate": 8
+    },
+    "MeB": {
+        "methylene blue": 9
+    },
+    "PFA": {
+        "paraformaldehyde": 33,
+        "perfluoroalkoxy alkane": 8
+    },
+    "DOPA": {
+        "3,4-dihydroxy-l-phenylalanine": 14,
+        "3,4-dihydroxy-L-phenylalanine": 6,
+        "3,4-dihydroxyphenylalanine": 10
+    },
+    "NIPAM": {
+        "N-isopropylacrylamide": 39,
+        "N-isopropyl acrylamide": 6
+    },
+    "HAp": {
+        "hydroxyapatite": 42,
+        "Hydroxyapatite": 14
+    },
+    "PFSA": {
+        "perfluorosulfonic acid": 15
+    },
+    "SOD": {
+        "superoxide": 41,
+        "Superoxide": 6
+    },
+    "MIBC": {
+        "methyl isobutyl carbinol": 20,
+        "Methyl isobutyl carbinol": 8
+    },
+    "NSAID": {
+        "non-steroidal": 19
+    },
+    "SHMP": {
+        "sodium hexametaphosphate": 9
+    },
+    "PNIPAM": {
+        "poly(N-isopropylacrylamide)": 33
+    },
+    "NaHCO3": {
+        "sodium hydrogen carbonate": 9
+    },
+    "IBU": {
+        "ibuprofen": 15,
+        "Ibuprofen": 11
+    },
+    "DPBS": {
+        "Dulbecco\u2019s phosphate": 12,
+        "Dulbecco's phosphate": 9
+    },
+    "PSBMA": {
+        "poly(sulfobetaine methacrylate)": 25
+    },
+    "AEPPS": {
+        "N-aminoethyl piperazine propane sulfonate": 9
+    },
+    "Trp": {
+        "Tryptophan": 11,
+        "tryptophan": 30
+    },
+    "PHAs": {
+        "polyhydroxyalkanoates": 9,
+        "Polyhydroxyalkanoates": 8
+    },
+    "PHB": {
+        "polyhydroxybutyrate": 17,
+        "poly(3-hydroxybutyrate)": 9
+    },
+    "PHBV": {
+        "poly(3-hydroxybutyrate-co-3-hydroxyvalerate)": 9
+    },
+    "TMB": {
+        "tetramethylbenzidine": 7,
+        "3,3\u2032,5,5\u2032-tetramethylbenzidine": 14,
+        "3,3\u2032,5,5\u2032-Tetramethylbenzidine": 8,
+        "1,3,5-trimethylbenzene": 8
+    },
+    "poly": {
+        "propylene glycol": 7
+    },
+    "4-NP": {
+        "4-nitrophenol": 78,
+        "4-Nitrophenol": 8
+    },
+    "4-AP": {
+        "4-aminophenol": 28
+    },
+    "DPPC": {
+        "1,2-dipalmitoyl-sn-glycero-3-phosphocholine": 45,
+        "dipalmitoylphosphatidylcholine": 71,
+        "dipalmitoyl phosphatidylcholine": 18,
+        "1,2-Dipalmitoyl-sn-glycero-3-phosphocholine": 10,
+        "Dipalmitoylphosphatidylcholine": 16
+    },
+    "TBBPA": {
+        "tetrabromobisphenol A": 12
+    },
+    "PCBs": {
+        "polychlorinated biphenyls": 50,
+        "Polychlorinated biphenyls": 8
+    },
+    "PGA": {
+        "poly(glycolic acid)": 17,
+        "polyglycolic acid": 10
+    },
+    "CDI": {
+        "N,N\u2032-carbonyldiimidazole": 7
+    },
+    "ATBC": {
+        "acetyl tributyl citrate": 6
+    },
+    "TBT": {
+        "tributyltin": 20,
+        "tetrabutyltitanate": 8,
+        "Tetrabutyl titanate": 26,
+        "tetrabutyl titanate": 47,
+        "Tetrabutyltitanate": 7
+    },
+    "FITC": {
+        "Fluorescein isothiocyanate": 30,
+        "fluorescein isothiocyanate": 80
+    },
+    "HMT": {
+        "hexamethylenetetramine": 89,
+        "Hexamethylenetetramine": 10
+    },
+    "HMDSO": {
+        "hexamethyldisiloxane": 81,
+        "Hexamethyldisiloxane": 22
+    },
+    "MCT": {
+        "mercury cadmium telluride": 22
+    },
+    "PBT": {
+        "polybutylene terephthalate": 8
+    },
+    "DMPC": {
+        "dimyristoyl phosphatidylcholine": 6,
+        "dimyristoylphosphatidylcholine": 20,
+        "1,2-dimyristoyl-sn-glycero-3-phosphocholine": 18,
+        "Dimyristoylphosphatidylcholine": 6
+    },
+    "DOPE": {
+        "1,2-dioleoyl-sn-glycero-3-phosphoethanolamine": 10,
+        "dioleoylphosphatidylethanolamine": 10
+    },
+    "DSPC": {
+        "1,2-distearoyl-sn-glycero-3-phosphocholine": 13,
+        "distearoylphosphatidylcholine": 6
+    },
+    "PTX": {
+        "paclitaxel": 18,
+        "Paclitaxel": 17
+    },
+    "TMA": {
+        "trimethylaluminum": 20,
+        "Trimethylaluminum": 11,
+        "trimethylamine": 12
+    },
+    "SMX": {
+        "sulfamethoxazole": 26
+    },
+    "ALG": {
+        "sodium alginate": 12
+    },
+    "TMCS": {
+        "trimethylchlorosilane": 60,
+        "Trimethylchlorosilane": 10
+    },
+    "HDTMS": {
+        "Hexadecyltrimethoxysilane": 37,
+        "hexadecyltrimethoxysilane": 86
+    },
+    "TMDs": {
+        "transition metal dichalcogenides": 29
+    },
+    "PUA": {
+        "polyurethane acrylate": 21
+    },
+    "DTMS": {
+        "dodecyltrimethoxysilane": 25,
+        "Dodecyltrimethoxysilane": 16
+    },
+    "NBS": {
+        "N-bromosuccinimide": 17
+    },
+    "POMs": {
+        "polyoxometalates": 25,
+        "Polyoxometalates": 22
+    },
+    "PEGDA": {
+        "Poly(ethylene glycol) diacrylate": 6,
+        "poly(ethylene glycol) diacrylate": 21,
+        "polyethylene glycol diacrylate": 8
+    },
+    "CTA": {
+        "cellulose triacetate": 44,
+        "Cellulose triacetate": 8
+    },
+    "TCH": {
+        "tetracycline hydrochloride": 14,
+        "Tetracycline hydrochloride": 8
+    },
+    "BAC": {
+        "benzalkonium chloride": 7
+    },
+    "CPC": {
+        "cetylpyridinium chloride": 13
+    },
+    "GMA": {
+        "glycidyl methacrylate": 89,
+        "Glycidyl methacrylate": 30
+    },
+    "PEGDMA": {
+        "poly(ethylene glycol) dimethacrylate": 7
+    },
+    "PMSQ": {
+        "polymethylsilsesquioxane": 14
+    },
+    "NH4": {
+        "ammonium": 19
+    },
+    "Asp": {
+        "aspartic acid": 9
+    },
+    "Gly": {
+        "glycine": 9,
+        "Glycerol": 9
+    },
+    "BCA": {
+        "bicinchoninic acid": 65
+    },
+    "PTES": {
+        "phenyltriethoxysilane": 8,
+        "1H,1H,2H,2H-perfluorooctyl-triethoxysilane": 6
+    },
+    "PHEMA": {
+        "poly(2-hydroxyethyl methacrylate)": 22
+    },
+    "TBAB": {
+        "tetrabutylammonium bromide": 17
+    },
+    "OTES": {
+        "octyltriethoxysilane": 13,
+        "n-octyltriethoxysilane": 9
+    },
+    "LiCl": {
+        "Lithium chloride": 14,
+        "lithium chloride": 49
+    },
+    "TCP": {
+        "tricalcium phosphate": 10,
+        "2,4,6-trichlorophenol": 17,
+        "trichlorophenol": 6
+    },
+    "PMAA": {
+        "polymethacrylic acid": 10,
+        "poly(methacrylic acid)": 20
+    },
+    "TFA": {
+        "trifluoroacetic acid": 118,
+        "Trifluoroacetic acid": 26,
+        "trifluoracetic acid": 6
+    },
+    "CuCl": {
+        "copper(I) chloride": 12,
+        "cuprous chloride": 7
+    },
+    "HTPB": {
+        "hydroxyl-terminated polybutadiene": 6
+    },
+    "DOP": {
+        "dioctyl phthalate": 6
+    },
+    "DABA": {
+        "3,5-diaminobenzoic acid": 7
+    },
+    "ZIF-8": {
+        "Zeolitic imidazolate framework-8": 9,
+        "zeolitic imidazolate framework-8": 20
+    },
+    "CSA": {
+        "camphorsulfonic acid": 10,
+        "camphor sulfonic acid": 8
+    },
+    "DHB": {
+        "2,5-dihydroxybenzoic acid": 8
+    },
+    "TEMPO": {
+        "2,2,6,6-tetramethylpiperidine-1-oxyl": 14,
+        "2,2,6,6-tetramethyl-1-piperidinyloxy": 11,
+        "2,2,6,6-Tetramethyl-1-piperidinyloxy": 9
+    },
+    "MES": {
+        "2-(N-morpholino)ethanesulfonic acid": 13,
+        "2-morpholinoethanesulfonic acid": 8
+    },
+    "\u03b1-CD": {
+        "\u03b1-cyclodextrin": 10
+    },
+    "PS-b-PAA": {
+        "polystyrene-block-poly(acrylic acid)": 6
+    },
+    "TEP": {
+        "Triethyl phosphate": 6,
+        "triethyl phosphate": 9
+    },
+    "DMC": {
+        "dimethyl carbonate": 28
+    },
+    "POPC": {
+        "1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine": 21
+    },
+    "PAH": {
+        "poly(allylamine hydrochloride)": 76,
+        "polyallylamine hydrochloride": 24,
+        "Poly(allylamine hydrochloride)": 12
+    },
+    "DPPH": {
+        "1,1-diphenyl-2-picrylhydrazyl": 21,
+        "2,2-diphenyl-1-picrylhydrazyl": 41,
+        "2-diphenyl-1-picrylhydrazyl": 7,
+        "2,2-Diphenyl-1-picrylhydrazyl": 8
+    },
+    "DCP": {
+        "dicumyl peroxide": 6
+    },
+    "CSH": {
+        "calcium silicate hydrate": 12
+    },
+    "PFOA": {
+        "perfluorooctanoic acid": 78,
+        "Perfluorooctanoic acid": 22
+    },
+    "DCE": {
+        "1,2-dichloroethane": 12,
+        "dichloroethane": 9
+    },
+    "CdS": {
+        "Cadmium sulfide": 45,
+        "cadmium sulfide": 73,
+        "cadmium sulphide": 12
+    },
+    "PDDA": {
+        "poly(diallyldimethylammonium chloride)": 23,
+        "polydiallyldimethylammonium chloride": 6,
+        "Poly(diallyldimethylammonium chloride)": 13
+    },
+    "PFDTES": {
+        "1H,1H,2H,2H-perfluorodecyltriethoxysilane": 18,
+        "perfluorodecyltriethoxysilane": 9,
+        "1H,1H,2H,2H-Perfluorodecyltriethoxysilane": 9
+    },
+    "PFPE": {
+        "perfluoropolyether": 53,
+        "Perfluoropolyether": 16
+    },
+    "TNT": {
+        "2,4,6-trinitrotoluene": 9
+    },
+    "\u03b2-TCP": {
+        "\u03b2-tricalcium phosphate": 15
+    },
+    "PEGMA": {
+        "Polyethylene glycol methacrylate": 6,
+        "poly(ethylene glycol) methyl ether methacrylate": 10,
+        "poly(ethylene glycol) methacrylate": 16,
+        "polyethylene glycol methacrylate": 7
+    },
+    "VTMS": {
+        "vinyltrimethoxysilane": 31,
+        "Vinyltrimethoxysilane": 9
+    },
+    "CIP": {
+        "ciprofloxacin": 52,
+        "Ciprofloxacin": 14
+    },
+    "DMMP": {
+        "dimethyl methylphosphonate": 11
+    },
+    "OII": {
+        "Orange II": 9
+    },
+    "KPS": {
+        "potassium persulfate": 68
+    },
+    "PPO": {
+        "polypropylene oxide": 19,
+        "poly(propylene oxide)": 26
+    },
+    "ATP": {
+        "adenosine triphosphate": 18
+    },
+    "PVB": {
+        "polyvinyl butyral": 29,
+        "Polyvinyl butyral": 12
+    },
+    "DCDMS": {
+        "dichlorodimethylsilane": 6
+    },
+    "CaSO4": {
+        "calcium sulfate": 13
+    },
+    "BaSO4": {
+        "barium sulfate": 13,
+        "Barium sulfate": 13
+    },
+    "PAMAM": {
+        "poly(amido amine)": 7,
+        "polyamidoamine": 16,
+        "Polyamidoamine": 6,
+        "poly(amidoamine)": 8
+    },
+    "DMDMS": {
+        "dimethyldimethoxysilane": 6
+    },
+    "SO4": {
+        "sulfate": 32
+    },
+    "EDOT": {
+        "3,4-ethylenedioxythiophene": 35,
+        "3,4-Ethylenedioxythiophene": 7
+    },
+    "DOTAP": {
+        "1,2-dioleoyl-3-trimethylammonium-propane": 7
+    },
+    "ZnPc": {
+        "zinc phthalocyanine": 14
+    },
+    "SLS": {
+        "sodium lauryl sulfate": 26,
+        "sodium lauryl sulphate": 8
+    },
+    "MPC": {
+        "2-methacryloyloxyethyl phosphorylcholine": 42,
+        "2-Methacryloyloxyethyl phosphorylcholine": 14
+    },
+    "HEPES": {
+        "4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid": 15,
+        "4-(2-hydroxyethyl)piperazine-1-ethanesulfonic acid": 6
+    },
+    "Phe": {
+        "phenylalanine": 20
+    },
+    "COO": {
+        "carboxyl": 23
+    },
+    "DHA": {
+        "docosahexaenoic acid": 6
+    },
+    "CPB": {
+        "cetylpyridinium bromide": 6
+    },
+    "NSAIDs": {
+        "Non-steroidal": 8
+    },
+    "\u03b1-TCP": {
+        "\u03b1-tricalcium phosphate": 6
+    },
+    "TTCP": {
+        "tetracalcium phosphate": 8
+    },
+    "STA": {
+        "stearic acid": 76,
+        "Stearic acid": 24
+    },
+    "BIBB": {
+        "2-bromoisobutyryl bromide": 15,
+        "2-Bromoisobutyryl bromide": 7
+    },
+    "TPMA": {
+        "tris(2-pyridylmethyl)amine": 7
+    },
+    "DMAEMA": {
+        "2-(dimethylamino)ethyl methacrylate": 22,
+        "2-(dimethylamino) ethyl methacrylate": 10,
+        "N,N-dimethylaminoethyl methacrylate": 7
+    },
+    "SMA": {
+        "stearyl methacrylate": 10
+    },
+    "ODE": {
+        "1-octadecene": 27,
+        "octadecene": 9
+    },
+    "OLA": {
+        "oleylamine": 21
+    },
+    "ERY": {
+        "erythromycin": 13
+    },
+    "TAGs": {
+        "triacylglycerols": 7
+    },
+    "DIM": {
+        "diiodomethane": 22
+    },
+    "CPs": {
+        "Chlorophenols": 7
+    },
+    "2,4-DCP": {
+        "2,4-dichlorophenol": 49,
+        "2,4-Dichlorophenol": 6
+    },
+    "STO": {
+        "SrTiO3": 24
+    },
+    "DAPI": {
+        "6-diamidino-2-phenylindole": 12,
+        "4\u2032,6-diamidino-2-phenylindole": 61,
+        "4,6-diamidino-2-phenylindole": 10
+    },
+    "MBA": {
+        "N,N\u2032-methylenebisacrylamide": 9
+    },
+    "PPD": {
+        "p-phenylenediamine": 12
+    },
+    "DDS": {
+        "dimethyldichlorosilane": 7
+    },
+    "DEC": {
+        "diethyl carbonate": 11
+    },
+    "FEC": {
+        "fluoroethylene carbonate": 7
+    },
+    "TOP": {
+        "trioctylphosphine": 24
+    },
+    "AAm": {
+        "Acrylamide": 11,
+        "acrylamide": 36
+    },
+    "PMPC": {
+        "poly(2-methacryloyloxyethyl phosphorylcholine)": 11
+    },
+    "MAA": {
+        "methacrylic acid": 86,
+        "Methacrylic acid": 20
+    },
+    "OEG": {
+        "oligo(ethylene glycol)": 12
+    },
+    "PAAm": {
+        "poly(acrylamide)": 8
+    },
+    "SBSi": {
+        "sulfobetaine silane": 6
+    },
+    "PMS": {
+        "peroxymonosulfate": 41
+    },
+    "PBI": {
+        "polybenzimidazole": 20
+    },
+    "4-MBA": {
+        "4-mercaptobenzoic acid": 7
+    },
+    "SPES": {
+        "sulfonated polyethersulfone": 9
+    },
+    "PNIPAAm": {
+        "Poly(N-isopropylacrylamide)": 16,
+        "poly(N-isopropyl acrylamide)": 6
+    },
+    "EGCG": {
+        "epigallocatechin gallate": 19,
+        "Epigallocatechin gallate": 6
+    },
+    "DEX": {
+        "dexamethasone": 8
+    },
+    "TPA": {
+        "tripropylamine": 16,
+        "triphenylamine": 6,
+        "terephthalic acid": 33,
+        "Terephthalic acid": 6
+    },
+    "NH2": {
+        "amino": 69
+    },
+    "HMTETA": {
+        "1,1,4,7,10,10-hexamethyltriethylenetetramine": 9
+    },
+    "PPA": {
+        "polyphosphoric acid": 6
+    },
+    "APT": {
+        "attapulgite": 6
+    },
+    "WPU": {
+        "Waterborne polyurethane": 8
+    },
+    "2-ME": {
+        "2-methoxyethanol": 6
+    },
+    "PVAm": {
+        "polyvinylamine": 9
+    },
+    "TBOT": {
+        "Tetrabutyl orthotitanate": 11,
+        "tetrabutyl orthotitanate": 26,
+        "tetrabutylorthotitanate": 13
+    },
+    "CTAC": {
+        "cetyltrimethylammonium chloride": 16
+    },
+    "DHI": {
+        "5,6-dihydroxyindole": 12
+    },
+    "TiO": {
+        "titanium oxide": 11
+    },
+    "AST": {
+        "aspartate": 16,
+        "Aspartate": 7
+    },
+    "NVF": {
+        "N-vinylformamide": 6
+    },
+    "PMHS": {
+        "polymethylhydrosiloxane": 24,
+        "Polymethylhydrosiloxane": 11
+    },
+    "OPD": {
+        "o-phenylenediamine": 10
+    },
+    "DiI": {
+        "1,1\u2032-dioctadecyl-3,3,3\u2032,3\u2032-tetramethylindocarbocyanine perchlorate": 6
+    },
+    "OTMS": {
+        "octyltrimethoxysilane": 6,
+        "octadecyltrimethoxysilane": 20,
+        "Octadecyltrimethoxysilane": 7
+    },
+    "Ar+": {
+        "argon": 18,
+        "Argon": 6
+    },
+    "PGMEA": {
+        "propylene glycol monomethyl ether acetate": 10,
+        "propylene glycol methyl ether acetate": 6
+    },
+    "PETMP": {
+        "Pentaerythritol tetra (3-mercaptopropionate)": 6
+    },
+    "OSA": {
+        "octenyl succinic anhydride": 9
+    },
+    "REOs": {
+        "rare earth oxides": 11,
+        "rare-earth oxides": 6
+    },
+    "CHP": {
+        "cumene hydroperoxide": 10
+    },
+    "DOPC": {
+        "1,2-dioleoyl-sn-glycero-3-phosphocholine": 24,
+        "dioleoylphosphatidylcholine": 13
+    },
+    "PGPR": {
+        "polyglycerol polyricinoleate": 7
+    },
+    "MgO": {
+        "magnesium oxide": 21,
+        "Magnesium oxide": 6
+    },
+    "CUR": {
+        "curcumin": 12
+    },
+    "Pro": {
+        "proline": 6
+    },
+    "HDPE": {
+        "high density polyethylene": 33,
+        "High Density Polyethylene": 6
+    },
+    "AAM": {
+        "alumina": 7
+    },
+    "Arg": {
+        "arginine": 13
+    },
+    "4-ATP": {
+        "4-aminothiophenol": 10
+    },
+    "NH4Ac": {
+        "ammonium acetate": 10
+    },
+    "PLL": {
+        "poly-L-lysine": 7,
+        "poly-l-lysine": 30,
+        "poly(l-lysine)": 10
+    },
+    "GPTMS": {
+        "3-glycidyloxypropyltrimethoxysilane": 6,
+        "(3-glycidyloxypropyl)trimethoxysilane": 6,
+        "3-glycidoxypropyltrimethoxysilane": 16
+    },
+    "TIPT": {
+        "tetraisopropyl orthotitanate": 15,
+        "Tetraisopropyl orthotitanate": 8
+    },
+    "TBO": {
+        "toluidine blue O": 8,
+        "Toluidine Blue O": 7
+    },
+    "CdSO4": {
+        "cadmium sulfate": 6
+    },
+    "ICG": {
+        "indocyanine green": 9,
+        "Indocyanine green": 8
+    },
+    "LDPE": {
+        "Low Density Polyethylene": 8,
+        "low density polyethylene": 80,
+        "Low density polyethylene": 16
+    },
+    "CaO": {
+        "calcium oxide": 20
+    },
+    "HFIP": {
+        "hexafluoroisopropanol": 14
+    },
+    "TEG": {
+        "tetraethylene glycol": 6,
+        "triethylene glycol": 17
+    },
+    "IAA": {
+        "iodoacetamide": 9
+    },
+    "pNPB": {
+        "p-nitrophenyl butyrate": 8
+    },
+    "P4VP": {
+        "poly(4-vinylpyridine)": 13
+    },
+    "CBZ": {
+        "carbamazepine": 27,
+        "Carbamazepine": 6
+    },
+    "DCF": {
+        "diclofenac": 19,
+        "dichlorofluorescein": 9
+    },
+    "SiO": {
+        "siloxane": 6
+    },
+    "TEMED": {
+        "tetramethylethylenediamine": 6,
+        "N,N,N\u2032,N\u2032-tetramethylethylenediamine": 20
+    },
+    "TMCTS": {
+        "1,3,5,7-tetramethylcyclotetrasiloxane": 9
+    },
+    "N2O": {
+        "nitrous oxide": 14
+    },
+    "POEM": {
+        "poly(oxyethylene methacrylate)": 7
+    },
+    "LiI": {
+        "lithium iodide": 19
+    },
+    "TBP": {
+        "4-tert-butylpyridine": 28
+    },
+    "PA6": {
+        "polyamide 6": 11
+    },
+    "PEGDE": {
+        "poly(ethylene glycol) diglycidyl ether": 8
+    },
+    "ECTFE": {
+        "ethylene chlorotrifluoroethylene": 8
+    },
+    "BiOCl": {
+        "Bismuth oxychloride": 11,
+        "bismuth oxychloride": 14
+    },
+    "TEMP": {
+        "2,2,6,6-tetramethylpiperidine": 8
+    },
+    "SRB": {
+        "Sulforhodamine B": 7,
+        "sulforhodamine B": 6
+    },
+    "SHP": {
+        "sodium hypophosphite": 8
+    },
+    "SPEEK": {
+        "sulfonated poly(ether ether ketone)": 9
+    },
+    "LiBr": {
+        "lithium bromide": 12
+    },
+    "MAI": {
+        "methylammonium iodide": 19,
+        "Methylammonium iodide": 16
+    },
+    "CuPc": {
+        "copper phthalocyanine": 15
+    },
+    "CuS": {
+        "copper sulfide": 16
+    },
+    "BCP": {
+        "bathocuproine": 13
+    },
+    "PNP": {
+        "p-nitrophenol": 22
+    },
+    "PCTE": {
+        "polycarbonate": 7
+    },
+    "MTBE": {
+        "methyl tert-butyl ether": 18
+    },
+    "CAP": {
+        "chloramphenicol": 6,
+        "Chloramphenicol": 7
+    },
+    "Met": {
+        "methionine": 8
+    },
+    "NEM": {
+        "N-ethylmaleimide": 7
+    },
+    "PARA": {
+        "Paracetamol": 8
+    },
+    "CdO": {
+        "Cadmium oxide": 18,
+        "cadmium oxide": 21
+    },
+    "TFE": {
+        "2,2,2-trifluoroethanol": 9,
+        "tetrafluoroethylene": 27,
+        "trifluoroethanol": 13
+    },
+    "MTX": {
+        "methotrexate": 7
+    },
+    "MTT": {
+        "methyl thiazolyl tetrazolium": 16,
+        "methylthiazol tetrazolium": 6
+    },
+    "HPMA": {
+        "N-(2-hydroxypropyl)methacrylamide": 6,
+        "2-hydroxypropyl methacrylate": 6
+    },
+    "CdSe": {
+        "Cadmium selenide": 10,
+        "cadmium selenide": 13
+    },
+    "NH4Cl": {
+        "ammonium chloride": 31
+    },
+    "DMA": {
+        "N,N-dimethylacrylamide": 18,
+        "dopamine methacrylamide": 8,
+        "dimethylamine": 7
+    },
+    "PSt": {
+        "polystyrene": 13
+    },
+    "IPC": {
+        "isophthaloyl chloride": 6
+    },
+    "5-FU": {
+        "5-fluorouracil": 10
+    },
+    "AcH": {
+        "acetaldehyde": 7
+    },
+    "ECG": {
+        "epicatechin gallate": 6
+    },
+    "pNPP": {
+        "p-nitrophenyl phosphate": 7
+    },
+    "TPC": {
+        "terephthaloyl chloride": 10
+    },
+    "Tyr": {
+        "tyrosine": 23
+    },
+    "TAA": {
+        "thioacetamide": 58,
+        "Thioacetamide": 9
+    },
+    "TMAH": {
+        "tetramethylammonium hydroxide": 16,
+        "Tetramethylammonium hydroxide": 6
+    },
+    "NaF": {
+        "sodium fluoride": 26
+    },
+    "TBAOH": {
+        "tetrabutylammonium hydroxide": 18
+    },
+    "PFOS": {
+        "perfluorooctane sulfonate": 30,
+        "perfluorooctanesulfonic acid": 9,
+        "perfluorooctanesulfonate": 7
+    },
+    "dopamine": {
+        "3,4-dihydroxyphenethylamine": 9
+    },
+    "MgSt": {
+        "magnesium stearate": 11
+    },
+    "KGM": {
+        "Konjac glucomannan": 8
+    },
+    "PPS": {
+        "polyphenylene sulfide": 15,
+        "Polyphenylene sulfide": 13
+    },
+    "TCMS": {
+        "trichloromethylsilane": 6
+    },
+    "GCN": {
+        "graphitic carbon nitride": 10
+    },
+    "AO7": {
+        "Acid Orange 7": 34,
+        "Acid orange 7": 14,
+        "acid orange 7": 39
+    },
+    "MEA": {
+        "monoethanolamine": 62,
+        "Monoethanolamine": 11
+    },
+    "LMA": {
+        "Lauryl methacrylate": 6,
+        "lauryl methacrylate": 13
+    },
+    "DDT": {
+        "dodecanethiol": 8,
+        "1-dodecanethiol": 10,
+        "dichlorodiphenyltrichloroethane": 6
+    },
+    "P2VP": {
+        "poly(2-vinylpyridine)": 11
+    },
+    "TESPSA": {
+        "3-(triethoxysilyl)propyl succinic acid anhydride": 6
+    },
+    "DDA": {
+        "dodecylamine": 26
+    },
+    "BaP": {
+        "benzo[a]pyrene": 9
+    },
+    "TEAOH": {
+        "tetraethylammonium hydroxide": 8
+    },
+    "ZnS": {
+        "Zinc sulfide": 22,
+        "zinc sulfide": 21
+    },
+    "PHA": {
+        "polyhydroxyalkanoate": 6
+    },
+    "MTCS": {
+        "methyltrichlorosilane": 34
+    },
+    "nBA": {
+        "n-butyl acrylate": 7
+    },
+    "PMDA": {
+        "pyromellitic dianhydride": 11,
+        "Pyromellitic dianhydride": 8
+    },
+    "Thr": {
+        "threonine": 7
+    },
+    "EVOH": {
+        "ethylene vinyl alcohol": 8
+    },
+    "ARS": {
+        "Alizarin Red S": 6,
+        "alizarin red S": 7
+    },
+    "ABC": {
+        "ammonium bicarbonate": 6
+    },
+    "HFP": {
+        "hexafluoropropylene": 6
+    },
+    "AcAc": {
+        "Acetylacetone": 8,
+        "acetylacetone": 48,
+        "acetyl acetone": 10,
+        "acetyl-acetone": 8
+    },
+    "ANS": {
+        "8-anilino-1-naphthalenesulfonic acid": 7
+    },
+    "NPX": {
+        "naproxen": 9
+    },
+    "FDA": {
+        "fluorescein diacetate": 21,
+        "Fluorescein diacetate": 6
+    },
+    "PIB": {
+        "polyisobutylene": 11
+    },
+    "bpy": {
+        "2,2\u2032-bipyridine": 11
+    },
+    "ABS": {
+        "acrylonitrile butadiene styrene": 12,
+        "acrylonitrile-butadiene-styrene": 9,
+        "acrylonitrile\u2013butadiene\u2013styrene": 6
+    },
+    "BHT": {
+        "butylated hydroxytoluene": 14
+    },
+    "EtBr": {
+        "ethidium bromide": 9
+    },
+    "HDFS": {
+        "heptadecafluoro-1,1,2,2-tetrahydrodecyl trichlorosilane": 6
+    },
+    "OLEA": {
+        "oleic acid": 6
+    },
+    "TFEMA": {
+        "2,2,2-trifluoroethyl methacrylate": 11
+    },
+    "DEZ": {
+        "Diethyl zinc": 13,
+        "diethylzinc": 6
+    },
+    "Cur": {
+        "Curcumin": 8
+    },
+    "PMDETA": {
+        "N,N,N\u2032,N\u2033,N\u2033-pentamethyldiethylenetriamine": 13
+    },
+    "ZrN": {
+        "zirconium nitride": 8
+    },
+    "DEDMS": {
+        "diethoxydimethylsilane": 8
+    },
+    "FPU": {
+        "fluorinated polyurethane": 7
+    },
+    "BTA": {
+        "benzotriazole": 29,
+        "1H-benzotriazole": 7,
+        "Benzotriazole": 6
+    },
+    "TEC": {
+        "triethyl citrate": 23,
+        "Triethyl citrate": 6
+    },
+    "p-TSA": {
+        "p-toluenesulfonic acid": 8
+    },
+    "EMA": {
+        "ethyl methacrylate": 7
+    },
+    "TOPO": {
+        "trioctylphosphine oxide": 26,
+        "tri-n-octylphosphine oxide": 11
+    },
+    "IPM": {
+        "isopropyl myristate": 9
+    },
+    "SOx": {
+        "sulfur oxides": 7
+    },
+    "2-EHA": {
+        "2-ethylhexyl acrylate": 6
+    },
+    "EDMA": {
+        "ethylene dimethacrylate": 8
+    },
+    "TMPTA": {
+        "trimethylolpropane triacrylate": 16,
+        "Trimethylolpropane triacrylate": 8
+    },
+    "Cys": {
+        "cysteine": 14
+    },
+    "TCVS": {
+        "trichlorovinylsilane": 6
+    },
+    "NOx": {
+        "nitrogen oxide": 13,
+        "nitrogen oxides": 42,
+        "Nitrogen oxides": 16
+    },
+    "Ser": {
+        "serine": 9
+    },
+    "DMP": {
+        "dimethyl phthalate": 14
+    },
+    "DEP": {
+        "diethyl phthalate": 15
+    },
+    "DEHP": {
+        "di-(2-ethylhexyl) phthalate": 9
+    },
+    "PFOTS": {
+        "1H, 1H, 2H, 2H-perfluorooctyltrichlorosilane": 7,
+        "1H,1H,2H,2H-perfluorooctyltrichlorosilane": 10
+    },
+    "DPBF": {
+        "1,3-diphenylisobenzofuran": 11
+    },
+    "CBMA": {
+        "carboxybetaine methacrylate": 8
+    },
+    "CoA": {
+        "coenzyme A": 12
+    },
+    "PEGs": {
+        "polyethylene glycols": 11
+    },
+    "GAPDH": {
+        "glyceraldehyde-3-phosphate": 8
+    },
+    "CHCA": {
+        "\u03b1-cyano-4-hydroxycinnamic acid": 10
+    },
+    "KHP": {
+        "potassium hydrogen phthalate": 18
+    },
+    "BPB": {
+        "bromophenol blue": 7
+    },
+    "TMMS": {
+        "trimethoxymethylsilane": 6
+    },
+    "GMS": {
+        "Glyceryl monostearate": 6
+    },
+    "PCC": {
+        "precipitated calcium carbonate": 16
+    },
+    "DBSA": {
+        "dodecylbenzenesulfonic acid": 6
+    },
+    "TOAB": {
+        "tetraoctylammonium bromide": 19
+    },
+    "TGA": {
+        "thioglycolic acid": 17
+    },
+    "NAC": {
+        "N-acetyl-l-cysteine": 6
+    },
+    "4-CP": {
+        "4-chlorophenol": 110,
+        "4-Chlorophenol": 10
+    },
+    "DMCS": {
+        "dimethylchlorosilane": 6
+    },
+    "PAX": {
+        "potassium amyl xanthate": 7
+    },
+    "CaSt": {
+        "calcium stearate": 6
+    },
+    "TEPA": {
+        "tetraethylenepentamine": 12
+    },
+    "AgCl": {
+        "silver chloride": 9
+    },
+    "EthD-1": {
+        "ethidium homodimer-1": 6
+    },
+    "TBS": {
+        "Tris-buffered": 6
+    },
+    "DCU": {
+        "dicyclohexylurea": 6
+    },
+    "ACD": {
+        "acid citrate dextrose": 6
+    },
+    "ZnSe": {
+        "zinc selenide": 16
+    },
+    "TBHP": {
+        "tert-butyl hydroperoxide": 6
+    },
+    "ZFZ": {
+        "ZnFe2O4": 15
+    },
+    "DDSA": {
+        "dodecenyl succinic anhydride": 10
+    },
+    "SDZ": {
+        "sulfadiazine": 6
+    },
+    "TTD": {
+        "2,2,4-trifluoro-5-trifluoromethoxy-1,3-dioxole": 7
+    },
+    "HCPK": {
+        "1-hydroxycyclohexyl phenyl ketone": 6
+    },
+    "SBR": {
+        "styrene-butadiene rubber": 13
+    },
+    "PTA": {
+        "phosphotungstic acid": 19
+    },
+    "VAc": {
+        "vinyl acetate": 11
+    },
+    "FEVE": {
+        "fluoroethylene vinyl ether": 6
+    },
+    "DFMA": {
+        "Dodecafluoroheptyl methacrylate": 8,
+        "dodecafluoroheptyl methacrylate": 10
+    },
+    "Milli": {
+        "Milli-Q": 10
+    },
+    "CAN": {
+        "ceric ammonium nitrate": 11
+    },
+    "ThT": {
+        "Thioflavin T": 12
+    },
+    "DCA": {
+        "dichloroacetic acid": 8
+    },
+    "\u03b5-CL": {
+        "\u03b5-caprolactone": 8
+    },
+    "HDA": {
+        "hexadecylamine": 23,
+        "Hexadecylamine": 6
+    },
+    "Lys": {
+        "lysine": 13
+    },
+    "PMAO": {
+        "poly(maleic anhydride-alt-1-octadecene)": 8
+    },
+    "His": {
+        "histidine": 10
+    },
+    "THMs": {
+        "trihalomethanes": 14
+    },
+    "HAAs": {
+        "haloacetic acids": 8
+    },
+    "NDMA": {
+        "N-nitrosodimethylamine": 8
+    },
+    "DBU": {
+        "1,8-diazabicyclo[5.4.0]undec-7-ene": 8
+    },
+    "PbS": {
+        "lead sulfide": 10
+    },
+    "MPA": {
+        "3-mercaptopropionic acid": 23,
+        "mercaptopropionic acid": 20
+    },
+    "ODP": {
+        "octadodecylphosphonic acid": 6
+    },
+    "PCP": {
+        "pentachlorophenol": 26,
+        "Pentachlorophenol": 11
+    },
+    "TTAB": {
+        "tetradecyltrimethylammonium bromide": 10
+    },
+    "PBZ": {
+        "polybenzoxazine": 6
+    },
+    "TOA": {
+        "trioctylamine": 7
+    },
+    "HFBA": {
+        "2,2,3,4,4,4-hexafluorobutyl acrylate": 7
+    },
+    "TEOT": {
+        "tetraethyl orthotitanate": 6
+    },
+    "MUA": {
+        "11-mercaptoundecanoic acid": 17
+    },
+    "ProDOT": {
+        "3,4-propylenedioxythiophene": 6
+    },
+    "EtAc": {
+        "ethyl acetate": 8
+    },
+    "TMMOS": {
+        "trimethylmethoxysilane": 9
+    },
+    "NTA": {
+        "nitrilotriacetic acid": 7
+    },
+    "DBS": {
+        "dibutyl sebacate": 8
+    },
+    "DTS": {
+        "dodecyltrichlorosilane": 7
+    },
+    "TFT": {
+        "trifluorotoluene": 8
+    },
+    "DPD": {
+        "N,N-diethyl-p-phenylenediamine": 14
+    },
+    "DBT": {
+        "dibenzothiophene": 11
+    },
+    "2,4-D": {
+        "2,4-dichlorophenoxyacetic acid": 26,
+        "2,4-Dichlorophenoxyacetic acid": 7
+    },
+    "AAO": {
+        "alumina oxide": 11
+    },
+    "Cs+": {
+        "cesium": 6
+    },
+    "BTO": {
+        "BaTiO3": 9
+    },
+    "EAcAc": {
+        "ethyl acetoacetate": 11
+    },
+    "PFTS": {
+        "1H,1H,2H,2H-perfluorodecyltrichlorosilane": 6
+    },
+    "PFSEA": {
+        "perfluorosebacic acid": 7
+    },
+    "ANT": {
+        "anthracene": 8
+    },
+    "Pyr": {
+        "pyrene": 11
+    },
+    "DPPG": {
+        "dipalmitoylphosphatidylglycerol": 8
+    },
+    "p-BQ": {
+        "p-benzoquinone": 29
+    },
+    "FAD": {
+        "flavin adenine dinucleotide": 10
+    },
+    "IBOMA": {
+        "isobornyl methacrylate": 6
+    },
+    "TMPTMA": {
+        "Trimethylolpropane trimethacrylate": 7
+    },
+    "PMC": {
+        "perfluoroalkyl methacrylic copolymer": 7
+    },
+    "BnOH": {
+        "benzyl alcohol": 6
+    },
+    "DTAC": {
+        "dodecyltrimethylammonium chloride": 10
+    },
+    "DMS": {
+        "dimethyl sulfide": 10
+    },
+    "BFO": {
+        "BiFeO3": 35
+    },
+    "MIBK": {
+        "methyl isobutyl ketone": 14
+    },
+    "GaAs": {
+        "gallium arsenide": 10
+    },
+    "Glu": {
+        "glutamic acid": 10
+    },
+    "CTMS": {
+        "chlorotrimethylsilane": 6
+    },
+    "ODS": {
+        "octadecylsilane": 6
+    },
+    "AKD": {
+        "alkyl ketene dimer": 24,
+        "Alkyl ketene dimer": 8
+    },
+    "LPC": {
+        "lysophosphatidylcholine": 6
+    },
+    "TPOT": {
+        "tetrapropyl orthotitanate": 6
+    },
+    "DCIP": {
+        "2,6-dichloroindophenol": 6
+    },
+    "ZnAc": {
+        "zinc acetate dihydrate": 7
+    },
+    "Val": {
+        "valine": 10
+    },
+    "CuI": {
+        "copper iodide": 7
+    },
+    "TMES": {
+        "trimethylethoxysilane": 21
+    },
+    "CO3": {
+        "carbonate": 10
+    },
+    "HOBt": {
+        "hydroxybenzotriazole": 6
+    },
+    "MCs": {
+        "microcystins": 9
+    },
+    "TFAA": {
+        "trifluoroacetic anhydride": 11
+    },
+    "MC-LR": {
+        "microcystin-LR": 18,
+        "Microcystin-LR": 8
+    },
+    "LMB": {
+        "leuco-methylene blue": 8,
+        "leucomethylene blue": 6
+    },
+    "PHMS": {
+        "poly(hydroxymethylsiloxane)": 6
+    },
+    "2-BuOEtOH": {
+        "2-butoxyethanol": 6
+    },
+    "MEKO": {
+        "methyl ethyl ketoxime": 6
+    },
+    "TNBS": {
+        "2,4,6-trinitrobenzenesulfonic acid": 6
+    },
+    "TBAP": {
+        "Tetrabutylammonium perchlorate": 6,
+        "tetrabutylammonium perchlorate": 6
+    },
+    "PFH": {
+        "perfluorohexane": 7
+    },
+    "DNPH": {
+        "2,4-dinitrophenylhydrazine": 9
+    },
+    "DVO": {
+        "divinyl oligomer": 6
+    },
+    "HFPO": {
+        "hexafluoropropylene oxide": 6
+    },
+    "FAI": {
+        "Formamidinium iodide": 7,
+        "formamidinium iodide": 7
+    },
+    "PEAI": {
+        "phenethylammonium iodide": 8
+    },
+    "HMTA": {
+        "hexamethylene tetramine": 10
+    },
+    "acac": {
+        "acetylacetonate": 6
+    },
+    "HCB": {
+        "hexachlorobenzene": 9
+    },
+    "ETES": {
+        "ethyltriethoxysilane": 7
+    },
+    "MPTES": {
+        "3-mercaptopropyltriethoxysilane": 13
+    },
+    "BTCA": {
+        "1,2,3,4-butanetetracarboxylic acid": 7
+    },
+    "MBT": {
+        "2-mercaptobenzothiazole": 8
+    },
+    "PHE": {
+        "phenanthrene": 16
+    },
+    "PCDFs": {
+        "polychlorinated dibenzofurans": 7
+    },
+    "CsI": {
+        "cesium iodide": 8,
+        "Cesium iodide": 7
+    },
+    "DPH": {
+        "1,6-diphenyl-1,3,5-hexatriene": 6
+    },
+    "2-CP": {
+        "2-chlorophenol": 26
+    },
+    "4-CBA": {
+        "4-chlorobenzoic acid": 6
+    },
+    "4-CC": {
+        "4-chlorocatechol": 6
+    },
+    "DCPD": {
+        "dicyclopentadiene": 7
+    },
+    "BADGE": {
+        "Bisphenol A diglycidyl ether": 6
+    },
+    "MABr": {
+        "methylammonium bromide": 7
+    },
+    "KEX": {
+        "potassium ethyl xanthate": 10
+    },
+    "BiOX": {
+        "bismuth oxyhalides": 15,
+        "Bismuth oxyhalides": 9
+    },
+    "4-HBA": {
+        "4-hydroxybenzoic acid": 7
+    },
+    "HOO": {
+        "hydroperoxyl": 7
+    },
+    "PFHxA": {
+        "perfluorohexanoic acid": 13
+    },
+    "ATH": {
+        "alumina trihydrate": 10
+    },
+    "PFHpA": {
+        "perfluoroheptanoic acid": 6
+    },
+    "PFPeA": {
+        "perfluoropentanoic acid": 6
+    },
+    "CTC": {
+        "chlortetracycline": 8
+    },
+    "BiOI": {
+        "bismuth oxyiodide": 7
+    },
+    "FFA": {
+        "furfuryl alcohol": 12
+    },
+    "PDS": {
+        "peroxydisulfate": 7
+    },
+    "TCS": {
+        "Triclosan": 6
+    },
+    "CIS": {
+        "CuInS2": 9
+    },
+    "ATZ": {
+        "atrazine": 7
+    },
+    "NOR": {
+        "norfloxacin": 13
+    },
+    "CF2": {
+        "CF2H": 13
+    },
+    "CoO": {
+        "cobalt oxide": 6
+    },
+    "TBAI": {
+        "tetrabutylammonium iodide": 6
+    },
+    "PCE": {
+        "perchloroethylene": 16
+    },
+    "BVO": {
+        "BiVO4": 15
+    },
+    "MeO": {
+        "methyl orange": 19,
+        "Methyl orange": 7
+    },
+    "GaN": {
+        "gallium nitride": 9
+    },
+    "HTA": {
+        "2-hydroxyterephthalic acid": 16
+    },
+    "CIGS": {
+        "Cu(In,Ga)Se2": 9
+    },
+    "TNB": {
+        "titanium (IV) n-butoxide": 9,
+        "Titanium (IV) n-butoxide": 6
+    },
+    "DCAC": {
+        "dichloroacetylchloride": 6,
+        "dichloroacetyl chloride": 12
+    },
+    "LAHC": {
+        "laurylamine hydrochloride": 18
+    },
+    "MCP": {
+        "monocrotophos": 6
+    },
+    "BZQ": {
+        "benzoquinone": 13
+    },
+    "AMX": {
+        "amoxicillin": 13,
+        "Amoxicillin": 9
+    },
+    "DNP": {
+        "2,4-dinitrophenol": 6
+    },
+    "AR-B": {
+        "Acid Red B": 6
+    },
+    "DPC": {
+        "diphenylcarbazide": 19,
+        "1,5-diphenylcarbazide": 6
+    },
+    "PCDDs": {
+        "polychlorinated dibenzo-p-dioxins": 7
+    },
+    "BDDT": {
+        "Brunauer-Deming-Deming-Teller": 8
+    },
+    "GSM": {
+        "geosmin": 6
+    },
+    "COU": {
+        "coumarin": 12
+    },
+    "HCHO": {
+        "HCOOH": 6
+    },
+    "ZIS": {
+        "ZnIn2S4": 13
+    },
+    "ZTO": {
+        "zinc tin oxide": 7
+    },
+    "t-BuOH": {
+        "tert-butylalcohol": 6
+    },
+    "BiOBr": {
+        "bismuth oxybromide": 6
+    }
+}
